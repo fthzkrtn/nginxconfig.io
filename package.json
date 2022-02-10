@@ -31,7 +31,7 @@
 		"jszip": "^3.2.1",
 		"masonry-layout": "^4.2.2",
 		"ngclipboard": "^2.0.0",
-		"node-sass": "^4.12.0",
+		"node-sass": "^7.0.0",
 		"notie": "^4.3.1",
 		"postcss-cli": "^6.1.2"
 	},

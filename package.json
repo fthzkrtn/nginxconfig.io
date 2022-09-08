@@ -28,7 +28,7 @@
 		"file-saver": "github:eligrey/FileSaver.js#master",
 		"highlight.js": "github:highlightjs/highlight.js#cli",
 		"js-base64": "^2.5.1",
-		"jszip": "^3.2.1",
+		"jszip": "^3.7.0",
 		"masonry-layout": "^4.2.2",
 		"ngclipboard": "^2.0.0",
 		"node-sass": "^4.12.0",
